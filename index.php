@@ -8,8 +8,8 @@
 define('BASE_URL', '/comem-archidep-php-todo-exercise/');
 
 // Database connection parameters.
-define('DB_USER', 'todolist');
-define('DB_PASS', 'chAngeMeN0w!');
+define('DB_USER', 'julessandoz');
+define('DB_PASS', 'S4ndoz!Jules');
 define('DB_NAME', 'todolist');
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '3306');
